@@ -343,7 +343,7 @@
 * [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
 * [Virgool - یک پلاگین برای وردپرس که نوشته ها را به ویرگول میفرسته.](https://github.com/nekofar/virgool)
 * [بانک لغت های معنادار فارسی json](https://github.com/amirshnll/persianwordjson)
-
+* [اپلیکیشن Angular](https://interlan.app/product/inter-app/)
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
 این صفحه در مالکیت عمومی Public Domain قرار دارد.
